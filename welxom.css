@@ -1,0 +1,21 @@
+body {background-color: rgb(255, 255, 0);}
+h1 {color:fuchsia;
+text-align: center;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ul {
+    margin-left: 90px;
+    text-align:start;
+}
+h2 {
+    color: rgb(255, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+
+
+}
+p2 {
+    color: red;
+    font-size:18px;
+}
